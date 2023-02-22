@@ -1,0 +1,10 @@
+{
+  "1": "fornix_body.nii.gz",
+  "2": "hipp_left_dil.nii.gz",
+  "3": "hipp_right_dil.nii.gz",
+  "4": "mammillary_bodies.nii.gz",
+  "5": "not_back.nii.gz",
+  "6": "not_diago.nii.gz",
+  "7": "thal_left_ero.nii.gz",
+  "8": "thal_right_ero.nii.gz"
+}
